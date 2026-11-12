@@ -10,7 +10,7 @@ The project covers the complete data-analysis workflow, including **data cleanin
 
 ## 🎯 Objectives
 
-The main objectives of this project are to:
+The main objectives of this project are to-
 
 * Clean and prepare the used-car dataset for analysis.
 * Explore the distribution and characteristics of used vehicles.
